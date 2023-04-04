@@ -1,14 +1,21 @@
 
 body {
-    background-color: rgb(28,31,38);
+    background-color: #a5a5a5;
+    font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-p {
+.odds {
     background-color: #ffa7a7;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-.number2 {
+#second {
     color: blue;
     font-size: 36px;
+}
+
+.odds.cooler {
+    font-size: 24px;
+    background-color: #80ff80;
+    font-weight: bold;
 }
