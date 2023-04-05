@@ -1,6 +1,6 @@
 
 body {
-    background-color: #a5a5a5;
+    /* background-color: #a5a5a5; */
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
@@ -16,6 +16,10 @@ body {
 
 .odds.cooler {
     font-size: 24px;
-    background-color: #80ff80;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
     font-weight: bold;
 }
