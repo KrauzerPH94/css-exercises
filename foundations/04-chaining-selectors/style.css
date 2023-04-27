@@ -2,3 +2,15 @@
 body {
     background-color: grey;
 }
+
+/* Both the `avatar` and `proportioned` classes 300px width */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+/* both the `avatar` and `distorted` classes 200px width */
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
