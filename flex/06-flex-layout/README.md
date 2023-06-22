@@ -11,10 +11,7 @@ Flexbox is useful for laying out entire pages as well as the smaller components 
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-
-#### TODO
 - The header is at the top of the page, the footer is at the bottom, and they stay in place if you resize your screen.
-#### DONE:
 - The footer has a light gray background (`#eeeeee`).
 - The header and footer have padding.
 - The links in the header and footer are pushed to either side.
