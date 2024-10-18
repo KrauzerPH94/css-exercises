@@ -8,6 +8,10 @@
   text-align: center;
   grid-template-columns: 1fr 4fr;
   gap: 4px;
+  grid-template-areas:
+    "header header"
+    "sidebar" "main"
+    "footer" "footer"
 }
 
 .container div {
