@@ -42,6 +42,7 @@
 .sidebar {
   display: grid;
   gap: 50px;
+  grid-row: 2 / 4;
   background-color: #C50208;
 }
 
@@ -52,7 +53,6 @@
   font-weight: normal;
   border-radius: 10px;
 }
-
 
 .sidebar .side-content {
   background-color: white;
