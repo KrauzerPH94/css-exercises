@@ -26,11 +26,18 @@
   background-color: #393f4d;
 }
 
+/* Push header logo back */
+.logo {
+  display: grid;
+  justify-self: start;
+}
+
 /* Isolated grid */
 .menu ul {
   display: grid;
   list-style: none;
   grid-template-columns: repeat(4, 1fr);
+  justify-items: end; /* Push logo away */
 }
 
 .menu ul,
